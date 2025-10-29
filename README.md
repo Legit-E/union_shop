@@ -69,14 +69,14 @@ This command checks your environment and displays a report of the status of your
 
 ### Fork the Repository
 
-1. Head to this link: [https://github.com/manighahrmani/union_shop](https://github.com/manighahrmani/union_shop)
-2. Click the "Fork" button in the top-right corner of the page
-3. Do not change any of the settings and click "Create fork" (if you already have a repository with the same name, you may need to rename it first)
-4. Make a note of your forked repository URL (e.g., `https://github.com/YOUR-USERNAME/union_shop` where `YOUR-USERNAME` is your GitHub username)
+1. Go to the repository containing the code for the coursework and click on the fork button as shown in the screenshot: [https://github.com/manighahrmani/union_shop/fork](https://github.com/manighahrmani/union_shop/fork) (Alternatively, just use this link: [https://github.com/manighahrmani/union_shop/fork](https://github.com/manighahrmani/union_shop/fork))
+2. Do not change anything and click on the Create fork button. You should then have a public fork of my repository with a URL like (YOUR-USERNAME replaced with your username): [https://github.com/YOUR-USERNAME/union_shop](https://github.com/YOUR-USERNAME/union_shop)
 
 ![Fork Button](https://raw.githubusercontent.com/manighahrmani/sandwich_shop/refs/heads/main/images/screenshot_fork_button.png)
 
 ![Fork Settings](https://raw.githubusercontent.com/manighahrmani/sandwich_shop/refs/heads/main/images/screenshot_fork_settings.png)
+
+Note that the name of this created fork must be “union_shop”. If you already have a repository with this name, you need to rename it beforehand.
 
 ### Clone Your Forked Repository
 
