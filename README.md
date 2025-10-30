@@ -181,7 +181,7 @@ The table below outlines the aspects that will be evaluated and the mark (from t
 | Testing | Tests covering all or almost all of the application; passing tests; evidence of TDD* | 6% |
 | External Services* | Integration and utilization of cloud services | 6% |
 
-⚠️ **Code Quality Penalty:** Up to 10% may be deducted if your code has quality issues. Your code must be properly formatted and free from errors, warnings, or suggestions. Make sure your codebase is also well-structured, refactored and relatively free of repetition. Visit [worksheet 4](https://manighahrmani.github.io/sandwich_shop/worksheet-4.html) for more information.
+⚠️ You may not be awarded the 25% software development practices mark if your code has problems. Your code must be properly formatted and free from errors, warnings, or suggestions. Make sure your codebase is also well-structured, refactored and relatively free of repetition. Your code must be your own work (you need to understand it). **Plagiarised code** (e.g., commits showing large chunks of code copied over, especially from other students) will be penalised according to the University’s academic misconduct policy and you be awarded 0 marks for the entire coursework.
 
 Below are some explanations for the terminology used in the table:
 
